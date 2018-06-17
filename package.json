@@ -1,0 +1,12 @@
+{
+  "name": "jchecker_tests",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:slavavikharev/jchecker_tests.git",
+  "author": "Viacheslav Vikharev <slavavikharev@gmail.com>",
+  "license": "Apache",
+  "dependencies": {
+    "fs-extra": "6.0.1",
+    "vm2": "3.6.0"
+  }
+}
