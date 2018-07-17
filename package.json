@@ -6,7 +6,6 @@
   "author": "Viacheslav Vikharev <slavavikharev@gmail.com>",
   "license": "Apache",
   "dependencies": {
-    "fs-extra": "6.0.1",
-    "vm2": "3.6.0"
+    "fs-extra": "6.0.1"
   }
 }

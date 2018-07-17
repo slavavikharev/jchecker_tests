@@ -4,4 +4,6 @@ const tests = require('./tests')
 const [ ,, taskName, taskDir ] = process.argv
 let resolvedTaskDir = path.resolve(taskDir)
 
-tests(taskName, resolvedTaskDir)
+let testingResult = tests(taskName, resolvedTaskDir)
+
+console.info(testingResult)
